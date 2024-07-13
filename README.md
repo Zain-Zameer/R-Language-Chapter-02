@@ -1,5 +1,3 @@
-# R-Language-Chapter-02
-
 ---
 title: "Chapter-02"
 author: "Muhammad Zain Zameer"
